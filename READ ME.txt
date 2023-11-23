@@ -1,0 +1,5 @@
+Its a note taking app.
+in this app user have to click on create notes and than the paragraph area will be generated
+than user cam write their notes 
+and also they can highlight the perticular/ important para
+after refreshing the app their is no changes it means that the previous data is store and user can see after refreshing the page
